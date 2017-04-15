@@ -21,6 +21,13 @@
 #guideDescription {
   font-family: Veranda;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 21px;
+  color: gray;
+}
+
+#iPhone {
+  font-family: Veranda;
+  font-weight: 300;
+  font-size: 42px;
   color: white;
 }
